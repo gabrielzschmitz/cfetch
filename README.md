@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <img src="./cfetch.png" alt="cfetch">
+    <img src="./cfetch.svg" alt="cfetch">
     <br>
     cfetch
     <br>
@@ -18,6 +18,7 @@
   <a href="#how-to-install">How to Install</a> •
   <a href="#how-to-use">How to Use</a> •
   <a href="#fetch-capabilities">Fetch Capabilities</a> •
+  <a href="#dependencies">Dependencies</a> •
   <a href="#thanks-to">Thanks to</a>
 </p>
 
@@ -39,6 +40,13 @@ $ make
 $ cfetch
 ```
 
+To run it everytime you open a terminal you can call it at your shell:
+```
+$ echo "cfetch" >> $HOME/.bashrc
+$ echo "cfetch" >> $HOME/.zshrc
+$ echo "cfetch" >> $HOME/.config/fish/config.fish
+```
+
 ## Fetch Capabilities
 
 It can <b>fetches</b>:
@@ -50,6 +58,15 @@ It can <b>fetches</b>:
  * Shell
  * Terminal Colors
 </i>
+
+## Dependencies
+
+<b>Note</b>: only compatible with [<b>linux</b>](https://www.linuxfoundation.org/).
+<i>
+* [gcc](https://gcc.gnu.org/)
+* [xorg](https://www.x.org/wiki/)
+* [xlibwrap](https://github.com/matyklug18/Flexfetch/blob/master/xlibwrap.h) (included in the repo)
+<i/>
 
 ## Thanks to
 
