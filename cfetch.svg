@@ -7,9 +7,25 @@
    width="298.03262"
    height="129.00822"
    viewBox="0 0 298.03262 129.00822"
+   sodipodi:docname="cfetch.svg"
+   inkscape:export-filename="cfetch.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview41"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false" />
   <defs
      id="defs52" />
   <g
@@ -96,26 +112,16 @@
          id="tspan3602"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CaskaydiaCove Nerd Font Mono';-inkscape-font-specification:'CaskaydiaCove Nerd Font Mono';stroke-width:1.19875"><tspan
    style="fill:#b3b3b3;fill-opacity:1;stroke-width:1.19875"
-   id="tspan5538">⤜ |</tspan>                               <tspan
+   id="tspan5538"
+   dx="0 0 0 0"><tspan
+   style="letter-spacing:-1.72px"
+   id="tspan981">⤜➙ </tspan>|</tspan>                              <tspan
    style="fill:#b3b3b3;fill-opacity:1;stroke-width:1.19875"
    id="tspan5550">~</tspan></tspan><tspan
          x="0.31947014"
          y="142.53491"
          id="tspan3604"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CaskaydiaCove Nerd Font Mono';-inkscape-font-specification:'CaskaydiaCove Nerd Font Mono';stroke-width:1.19875" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.385px;font-family:'CaskaydiaCove Nerd Font Mono';-inkscape-font-specification:'CaskaydiaCove Nerd Font Mono';display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.9821"
-       x="10.454479"
-       y="127.45984"
-       id="text5260"
-       transform="scale(1.0182267,0.98209956)"><tspan
-         id="tspan5258"
-         x="10.454479"
-         y="127.45984"
-         style="font-size:7.8px;fill:#b3b3b3;fill-opacity:1;stroke-width:0"><tspan
-           style="font-size:7.8px"
-           id="tspan5554">➙</tspan></tspan></text>
   </g>
   <g
      id="g164"
