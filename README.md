@@ -59,7 +59,7 @@ It can <b>fetches</b>:
 * [gcc](https://gcc.gnu.org/)
 * [xorg](https://www.x.org/wiki/)
 * [xlibwrap](https://github.com/matyklug18/Flexfetch/blob/master/xlibwrap.h) (included in the repo)
-<i/>
+</i>
 
 ## Thanks to
 - [<b>matyklug18</b>](https://github.com/matyklug18/Flexfetch) - By creating the base for that program
