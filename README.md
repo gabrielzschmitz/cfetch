@@ -1,10 +1,26 @@
-<h1 align="center"><img src="./cfetch.png" alt="cfetch"></h1>
-<p align="center">A blazing fast fetch program written in C</p>
-<p align="center">
-<a href="./LICENSE"><img src="https://img.shields.io/badge/license-GPL-3.svg"></a>
-<a href="https://www.buymeacoffee.com/gabrielzschmitz" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 87px;" ></a>
+<h1 align="center">
+    <br>
+    <img src="./cfetch.png" alt="cfetch">
+    <br>
+    cfetch
+    <br>
+</h1>
 
-## Install
+<h4 align="center">A blazing fast fetch program written in <a href="https://www.open-std.org/JTC1/SC22/WG14/www/standards" target="_blank">C</a>.</h4>
+
+<p align="center">
+<a href="./LICENSE"><img src="https://img.shields.io/badge/license-GPL-3.svg" alt="License"></a>
+<a href="https://www.buymeacoffee.com/gabrielzschmitz" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 87px;" ></a>
+<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&size=small" frameborder="0" scrolling="0" width="45" height="20" title="Give me a star"></iframe>
+
+<p align="center">
+  <a href="#how-to-install">How to Install</a> •
+  <a href="#how-to-use">How to Use</a> •
+  <a href="#fetch-capabilities">Fetch Capabilities</a> •
+  <a href="#thanks-to">Thanks to</a> •
+</p>
+
+## How to Install
 
 ```
 $ git clone https://github.com/gabrielzschmitz/cfetch.git
@@ -14,25 +30,27 @@ $ sudo cp coffee.art /usr/share/cfetch/coffee.art
 $ make
 ```
 
-Note: change the path in the mv command at Makefile to your $PATH, default is $HOME/.local/bin/.
+<b>Note</b>: change the path in the <b><i>mv</i></b> command at Makefile to your <b>$PATH</b>, default is<b> $HOME/.local/bin/</b>.
 
-## Usage
+## How to Use
 
 ```
 $ cfetch
 ```
 
-## Fetch
+## Fetch Capabilities
 
-It can fetches:
- * Distro
+It can <b>fetches</b>:
+<i>
+ * Distribution
  * Kernel
  * Uptime
- * WM 
+ * Window Manager 
  * Shell
  * Terminal Colors
+</i>
 
 ## Thanks to
 
-- [matyklug18](https://github.com/matyklug18/Flexfetch) - By creating the base for that program
+- [<b>matyklug18</b>](https://github.com/matyklug18/Flexfetch) - By creating the base for that program
 
