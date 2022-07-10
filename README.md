@@ -11,7 +11,8 @@
 <p align="center">
 <a href="./LICENSE"><img src="https://img.shields.io/badge/license-GPL-3.svg" alt="License"></a>
 <a href="https://www.buymeacoffee.com/gabrielzschmitz" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 87px;" ></a>
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&size=small" frameborder="0" scrolling="0" width="45" height="20" title="Give me a star"></iframe>
+<a href="https://github.com/gabrielzschmitz/cfetch"><img src="https://img.shields.io/github/stars/gabrielzschmitz/cfetch?style=social" alt="Give me a Star"></a>
+</p>
 
 <p align="center">
   <a href="#how-to-install">How to Install</a> •
