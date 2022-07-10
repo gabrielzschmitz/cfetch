@@ -23,24 +23,19 @@
 </p>
 
 ## How to Install
-
+<b>Note</b>: a good practice is to clone the repo at <i>$HOME/.local/src/</i>.
 ```
 $ git clone https://github.com/gabrielzschmitz/cfetch.git
-$ cd
-$ sudo /usr/share/cfetch
-$ sudo cp coffee.art /usr/share/cfetch/coffee.art
-$ make
+$ cd cfetch
+$ sudo make
 ```
 
-<b>Note</b>: change the path in the <b><i>mv</i></b> command at Makefile to your <b>$PATH</b>, default is<b> $HOME/.local/bin/</b>.
-
 ## How to Use
-
 ```
 $ cfetch
 ```
 
-To run it everytime you open a terminal you can call it at your shell:
+To run it everytime you open a terminal you can call it at your shell config:
 ```
 $ echo "cfetch" >> $HOME/.bashrc
 $ echo "cfetch" >> $HOME/.zshrc
@@ -48,7 +43,6 @@ $ echo "cfetch" >> $HOME/.config/fish/config.fish
 ```
 
 ## Fetch Capabilities
-
 It can <b>fetches</b>:
 <i>
  * Distribution
@@ -60,7 +54,6 @@ It can <b>fetches</b>:
 </i>
 
 ## Dependencies
-
 <b>Note</b>: only compatible with [<b>linux</b>](https://www.linuxfoundation.org/).
 <i>
 * [gcc](https://gcc.gnu.org/)
@@ -69,6 +62,5 @@ It can <b>fetches</b>:
 <i/>
 
 ## Thanks to
-
 - [<b>matyklug18</b>](https://github.com/matyklug18/Flexfetch) - By creating the base for that program
 
