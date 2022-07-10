@@ -87,8 +87,7 @@ char* fetch_shell() {
 float fetch_uptime() {
     struct sysinfo info;
     sysinfo(&info);
-    printf("\e[32m\e[1m神");
-    printf("\e[37m· \e[30m\e[0m%02ld", info.uptime/3600);
+    printf("%02ld", info.uptime/3600);
     printf("%s ", "h");
     printf("%02ld", info.uptime%3600/60);
     printf("%s\n", "m");
@@ -136,6 +135,7 @@ int main(int argc, char* argv[]) {
                 printf("\e[36m\e[1m \e[37m· \e[30m\e[0m%s%s\n", fetch_kernel(), color);
             break;                                
             case 2:                               
+                printf("\e[32m\e[1m神\e[37m· \e[30m\e[0m");
                 fetch_uptime();                   
             break;                                
             case 3:                               
