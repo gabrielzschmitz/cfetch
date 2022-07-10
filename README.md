@@ -18,7 +18,7 @@
   <a href="#how-to-install">How to Install</a> •
   <a href="#how-to-use">How to Use</a> •
   <a href="#fetch-capabilities">Fetch Capabilities</a> •
-  <a href="#thanks-to">Thanks to</a> •
+  <a href="#thanks-to">Thanks to</a>
 </p>
 
 ## How to Install
