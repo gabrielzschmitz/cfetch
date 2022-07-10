@@ -59,6 +59,7 @@ It can <b>fetches</b>:
 * [gcc](https://gcc.gnu.org/)
 * [xorg](https://www.x.org/wiki/)
 * [xlibwrap](https://github.com/matyklug18/Flexfetch/blob/master/xlibwrap.h) (included in the repo)
+* [Nerd Font](https://www.nerdfonts.com/) (for the icons)
 </i>
 
 ## Thanks to
