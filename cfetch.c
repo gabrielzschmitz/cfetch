@@ -94,7 +94,7 @@ float fetch_uptime() {
 }
 
 /* MAIN */
-#define ART_OFFSET 1
+#define ART_OFFSET 3
 
 int main(int argc, char* argv[]) {
     xwrap_init();
