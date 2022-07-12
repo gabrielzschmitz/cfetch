@@ -15,14 +15,15 @@
 </p>
 
 <p align="center">
-  <a href="#how-to-install">How to Install</a> •
-  <a href="#how-to-use">How to Use</a> •
-  <a href="#fetch-capabilities">Fetch Capabilities</a> •
-  <a href="#dependencies">Dependencies</a> •
-  <a href="#thanks-to">Thanks to</a>
+  <a href="#💾-how-to-install">How to Install</a> •
+  <a href="#🚀-how-to-use">How to Use</a> •
+  <a href="#🎨-fetch-capabilities">Fetch Capabilities</a> •
+  <a href="#⚓-dependencies">Dependencies</a> •
+  <a href="#🙌-thanks-to">Thanks to</a> •
+  <a href="#📜-license">License</a>
 </p>
 
-## How to Install
+## 💾 How to Install
 <b>Note</b>: a good practice is to clone the repo at <i>$HOME/.local/src/</i>.
 ```
 $ git clone https://github.com/gabrielzschmitz/cfetch.git
@@ -30,7 +31,7 @@ $ cd cfetch
 $ sudo make
 ```
 
-## How to Use
+## 🚀 How to Use
 ```
 $ cfetch
 ```
@@ -42,7 +43,7 @@ $ echo "cfetch" >> $HOME/.zshrc
 $ echo "cfetch" >> $HOME/.config/fish/config.fish
 ```
 
-## Fetch Capabilities
+## 🎨 Fetch Capabilities
 It can <b>fetches</b>:
 <i>
  * Distribution
@@ -53,7 +54,7 @@ It can <b>fetches</b>:
  * Terminal Colors
 </i>
 
-## Dependencies
+## ⚓ Dependencies
 <b>Note</b>: only compatible with [<b>linux</b>](https://www.linuxfoundation.org/).
 <i>
 * [gcc](https://gcc.gnu.org/)
@@ -62,6 +63,9 @@ It can <b>fetches</b>:
 * [Nerd Font](https://www.nerdfonts.com/) (for the icons)
 </i>
 
-## Thanks to
+## 🙌 Thanks to
 - [<b>matyklug18</b>](https://github.com/matyklug18/Flexfetch) - By creating the base for that program
+
+## 📜 License
+This software is licensed under the [GPL-3](./LICENSE) license.
 
