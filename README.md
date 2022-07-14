@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <img src="./cfetch.svg" alt="cfetch">
+    <img src="./cfetch.png" alt="cfetch">
     <br>
     cfetch
     <br>
